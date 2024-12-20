@@ -38,4 +38,4 @@ This project is a simple implementation of a **TFTP (Trivial File Transfer Proto
 
 Use `gcc` to compile the program:
 ```bash
-gcc -o tftp_client main.c gettftp.c
+gcc main.c gettftp.c -o main
