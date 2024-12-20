@@ -6,7 +6,10 @@ This project is a simple implementation of a **TFTP (Trivial File Transfer Proto
 
 ---
  ## 📋 **Project Structure** 
-
+- ** `quest1.c`** : Enables to get the server's address and the name of the file
+- ** `quest2.c`** : Enables to get the address IP
+- ** `quest3.c`** Use a socket to communicate.
+- ** quest4c**:
 - **`gettftp.h`**: Header file defining the `gettftp` function.
 - **`gettftp.c`**: Contains the implementation of the `gettftp` function, which constructs and sends a TFTP RRQ.
 - **`main.c`**: The main program that initializes the socket, resolves the server address, and calls the `gettftp` function.
