@@ -1,6 +1,6 @@
 
 
- # **TFTP Client Implementation in C **
+ # TFTP Client Implementation in C 
 
 This project is a simple implementation of a **TFTP (Trivial File Transfer Protocol)** client in C. It demonstrates how to send a **Read Request (RRQ)** to a TFTP server to retrieve a file using sockets and the UDP protocol.
 
